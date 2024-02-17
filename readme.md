@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Uneshia
 - 👀 I’m interested in ...c++ programming and data structures and algorithms
 - 🌱 I’m currently learning ...c++ and python
-- 📫 How to reach me ...udwivedi143@gmail.com
+- 📫 How to reach me ... udwivedi143@gmail.com
 - 😄 Pronouns: ...He/him
 
 <!---
